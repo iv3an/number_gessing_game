@@ -7,6 +7,4 @@ it a simple number gessing game with two levels :)
 
 
 
-
-![images](https://github.com/user-attachments/assets/8c376ebd-0efe-4c14-93ba-2981f2b11de7)
-
+![1ff5244f926f12fe6a61f9083dac44fd](https://github.com/user-attachments/assets/59332018-b073-4e3a-a103-c65b42b22c08)
