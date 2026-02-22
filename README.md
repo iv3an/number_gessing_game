@@ -8,5 +8,5 @@ it a simple number gessing game with two levels :)
 
 
 
-![image](https://github.com/user-attachments/assets/27d24130-549e-4443-826b-696b9f90ff20)
+![images](https://github.com/user-attachments/assets/8c376ebd-0efe-4c14-93ba-2981f2b11de7)
 
